@@ -29,4 +29,3 @@ Perform data acquisition, cleaning, preprocessing and analysis on Tabular, Textu
 | B | Textual | MTSamples Medical Transcriptions | https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions |
 | C | Image | Chest X-Ray (Pneumonia) Dataset | https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia |
 | D | Signal | MIT-BIH Arrhythmia Database (ECG) | https://physionet.org/content/mitdb/1.0.0/ |
-"""
